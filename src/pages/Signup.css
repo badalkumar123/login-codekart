@@ -1,0 +1,197 @@
+.signup{
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    left: 465px;
+    top: 160px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: 2px solid #02C5AD;
+}
+
+.sig{
+    position: absolute;
+width: 84px;
+height: 29px;
+left: 18px;
+top: 16px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: #555555;
+
+}
+
+.get{
+    position: absolute;
+width: 132px;
+height: 14px;
+left: 18px;
+top: 45px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #777777;
+
+}
+
+.name{
+    position: absolute;
+width: 310px;
+height: 40px;
+left: 20px;
+top: 87px;
+
+background: #FFFFFF;
+border: 1px solid #02C5AD;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.full{
+    position: absolute;
+width: 67px;
+height: 18px;
+left: 13px;
+top: 11px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #9F9F9F;
+
+}
+.email{
+    position: absolute;
+width: 310px;
+height: 40px;
+left: 20px;
+top: 142px;
+
+background: #FFFFFF;
+border: 1px solid #02C5AD;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.cheak{
+    position: absolute;
+width: 15px;
+height: 15px;
+left: 20px;
+top: 196px;
+
+background: #FFFFFF;
+border: 1.5px solid #777777;
+box-sizing: border-box;
+border-radius: 3px;
+}
+.agree{
+    position: absolute;
+width: 244px;
+height: 12px;
+left: 42px;
+top: 201px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #777777;
+
+}
+.red{
+    color: red;
+}
+.cracc{
+    position: absolute;
+width: 310px;
+height: 40px;
+left: 19px;
+top: 221px;
+
+background: #C4C4C4;
+border-radius: 5px;
+border: 0px;
+}
+.createaccounttext{
+    position: absolute;
+width: 102px;
+height: 18px;
+left: 104px;
+top: 11px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.google1{
+    position: absolute;
+width: 150px;
+height: 40px;
+left: 20px;
+top: 293px;
+
+border: 0.8px solid #9F9F9F;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.fb1{
+    position: absolute;
+width: 150px;
+height: 40px;
+left: 181px;
+top: 293px;
+
+border: 0.8px solid #9F9F9F;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.ahaccount{
+    position: absolute;
+width: 187px;
+height: 14px;
+left: 22px;
+top: 354px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+.lin{
+    color: red;
+}

@@ -1,0 +1,343 @@
+
+.log{
+position: absolute;
+width: 350px;
+height: 335px;
+left: 465px;
+top: 193px;
+
+background: #FFFFFF;
+border-radius: 10px #555;
+border: 2px solid #02C5AD;
+}
+
+.login{
+position: absolute;
+width: 63px;
+height: 29px;
+left: 18px;
+top: 16px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: #555555;
+}
+
+.get{
+    position: absolute;
+width: 132px;
+height: 14px;
+left: 17px;
+top: 48px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #777777;
+}
+
+.phonebox{
+    position: absolute;
+width: 310px;
+height: 40px;
+left: 20px;
+top: 87px;
+
+background: #F8F8F8;
+border: 1px solid #02C5AD;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.phno{
+position: absolute;
+width: 180px;
+height: 25px;
+left: 120px;
+top: 7px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 3000;
+font-size: 15px;
+line-height: 2px;
+/* identical to box height */
+border: 0px;
+background: #F8F8F8;
+
+
+
+color: black;
+
+}
+
+.flg{
+    position: absolute;
+width: 21px;
+height: 15px;
+left: 15px;
+top: 13px;
+
+background: #FFFFFF;
+border-radius: 2px;
+}
+
+.flgtop{
+    position: absolute;
+    width: 21px;
+    height: 5px;
+    left: 0px;
+    top: 0px;
+
+    background: #FF7B00;
+}
+
+.flgmid{
+    position: absolute;
+width: 5px;
+height: 5px;
+left: 8px;
+top: 5px;
+
+background: #005C9E;
+}
+.flgbot{
+    position: absolute;
+    width: 21px;
+    height: 5px;
+    left: 0px;
+    top: 10px;
+
+    background: #0E9E01;
+
+}
+.ninetyone{
+    position: absolute;
+width: 26px;
+height: 18px;
+left: 49px;
+top: 11px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.downarow{
+    position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1px solid #000000;
+}
+
+.line{
+    position: absolute;
+width: 30px;
+height: 0px;
+left: 93px;
+top: 18px;
+
+border: 0.5px solid #777777;
+transform: rotate(90deg);
+}
+
+.otp{
+
+    position: absolute;
+width: 310px;
+height: 40px;
+left: 20px;
+top: 144px;
+
+background: #C4C4C4;
+border-radius: 5px;
+border: 0px;
+}
+
+.sendotp{
+    position: absolute;
+width: 66px;
+height: 18px;
+left: 122px;
+top: 11px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.lineone{
+    position: absolute;
+width: 134px;
+height: 0px;
+left: 22px;
+top: 201.5px;
+border: 0.5px solid #d0d0d0;
+
+}
+
+.or{
+    position: absolute;
+width: 14px;
+height: 18px;
+left: 171px;
+top: 192px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 200;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #4A4A4A;
+
+}
+
+.linetwo{
+    position: absolute;
+width: 134px;
+height: 0px;
+left: 195px;
+top: 201px;
+border: 0.5px solid #d0d0d0;
+}
+.fam1{
+    position: absolute;
+width: 150px;
+height: 40px;
+left: 20px;
+top: 220px;
+
+border: 0.8px solid #9F9F9F;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.google{
+
+    position: absolute;
+width: 26px;
+height: 26px;
+left: 12px;
+top: 7px;
+
+background: url(../image/Ellipse\ 21.png);
+
+}
+
+.contgoogle{
+    position: absolute;
+width: 96px;
+height: 12px;
+left: 42px;
+top: 14px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.01em;
+
+}
+.fb{
+    position: absolute;
+width: 150px;
+height: 40px;
+left: 180px;
+top: 220px;
+
+border: 0.8px solid #9F9F9F;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.facebook{
+    position: absolute;
+width: 26px;
+height: 26px;
+left: 6px;
+top: 7px;
+
+background: url(../image/Ellipse\ 21\ \(1\).png);
+}
+.contfb{
+    position: absolute;
+width: 108px;
+height: 12px;
+left: 36px;
+top: 14px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+
+.linethree{
+position: absolute;
+width: 307px;
+height: 0px;
+left: 22px;
+top: 277px;
+border: 0.5px solid #d0d0d0;
+}
+.newacc{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 22px;
+top: 287px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+.ca{
+    color: red;
+}
