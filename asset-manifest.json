@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/login-codekart/static/css/main.5ec62e1b.css",
+    "main.js": "/login-codekart/static/js/main.8dc9ae77.js",
+    "static/js/787.0bca8be2.chunk.js": "/login-codekart/static/js/787.0bca8be2.chunk.js",
+    "index.html": "/login-codekart/index.html",
+    "main.5ec62e1b.css.map": "/login-codekart/static/css/main.5ec62e1b.css.map",
+    "main.8dc9ae77.js.map": "/login-codekart/static/js/main.8dc9ae77.js.map",
+    "787.0bca8be2.chunk.js.map": "/login-codekart/static/js/787.0bca8be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ec62e1b.css",
+    "static/js/main.8dc9ae77.js"
+  ]
+}
