@@ -9,7 +9,7 @@ export class App extends Component {
     return (
       <div>
         
-        
+        {/* <Signup/> */}
         <Login/>
         
       </div>
